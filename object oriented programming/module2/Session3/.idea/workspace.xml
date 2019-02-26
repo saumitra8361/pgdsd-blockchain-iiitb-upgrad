@@ -2,9 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b54dd48-09a2-48f9-85f1-287858343152" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Session3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session2/session2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WriteToFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aliceinwonderland.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module1/session1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module1/session2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module1/session2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module1/session2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module1/session2/.idea/session2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module1/session2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module1/session2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session1/out/production/session1/com/company/IncomeTaxCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session1/src/com/company/IncomeTaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/ScanText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/StringLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/TryNCatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/ArrayMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/Exceptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/Exceptions1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/MathLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/MeanNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/ReadFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/ReadNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/Swap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/WriteFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/WritePrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ArrayMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Exceptions1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MathLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MeanNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ReadNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ScanText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/StringLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TryNCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/WritePrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../outputPrime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../quiz_meanOfNumbers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module1/session1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../module1/session1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../session1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session1/out/production/session1/META-INF/session1.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/FunctionReturn.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -46,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/HelloFriend.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -102,16 +158,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/FunctionReturn.java" />
-        <option value="$PROJECT_DIR$/src/com/company/PrimeNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ArrayMax.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Swap.java" />
+        <option value="$PROJECT_DIR$/src/com/company/StringLibrary.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MathLibrary.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ReadFile.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ReadNumbers.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MeanNumbers.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Exceptions1.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Exceptions.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ScanText.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TryNCatch.java" />
+        <option value="$PROJECT_DIR$/src/com/company/WriteFile.java" />
+        <option value="$PROJECT_DIR$/src/com/company/WritePrime.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Practice1.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="100" />
     <option name="y" value="20" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -126,6 +194,11 @@
             <path>
               <item name="Session3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Session3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Session3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Session3" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Session3" type="b2602c69:ProjectViewProjectNode" />
@@ -148,7 +221,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551200615339" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551095786380" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../module1/session2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,38 +236,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrimeNumber (1)">
-    <configuration name="CompareFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompareFunction" />
-      <module name="Session3" />
+  <component name="RunManager" selected="Application.Practice1">
+    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Practice1" />
+      <module name="session3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloAdvanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloAdvanced" />
-      <module name="Session3" />
+    <configuration name="ScanText (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScanText" />
+      <module name="session3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloFriend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloFriend" />
-      <module name="Session3" />
+    <configuration name="TryNCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryNCatch" />
+      <module name="session3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
-      <module name="Session3" />
+    <configuration name="WriteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.WriteFile" />
+      <module name="session3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.PrimeNumber" />
-      <module name="Session3" />
+    <configuration name="WritePrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.WritePrime" />
+      <module name="session3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.*" />
@@ -205,19 +291,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HelloFriend" />
-      <item itemvalue="Application.HelloAdvanced" />
-      <item itemvalue="Application.CompareFunction" />
-      <item itemvalue="Application.PrimeNumber" />
-      <item itemvalue="Application.PrimeNumber (1)" />
+      <item itemvalue="Application.ScanText (1)" />
+      <item itemvalue="Application.TryNCatch" />
+      <item itemvalue="Application.WriteFile" />
+      <item itemvalue="Application.WritePrime" />
+      <item itemvalue="Application.Practice1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumber (1)" />
-        <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.CompareFunction" />
-        <item itemvalue="Application.HelloAdvanced" />
-        <item itemvalue="Application.HelloFriend" />
+        <item itemvalue="Application.Practice1" />
+        <item itemvalue="Application.WritePrime" />
+        <item itemvalue="Application.WriteFile" />
+        <item itemvalue="Application.TryNCatch" />
+        <item itemvalue="Application.ScanText (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -226,51 +312,50 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1b54dd48-09a2-48f9-85f1-287858343152" name="Default Changelist" comment="" />
-      <created>1550977446255</created>
+      <changelist id="787be5ba-85f6-426e-a994-b7d495783f7b" name="Default Changelist" comment="" />
+      <created>1551071652526</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550977446255</updated>
-      <workItem from="1550977474538" duration="5748000" />
+      <updated>1551071652526</updated>
+      <workItem from="1551071655336" duration="13095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5748000" />
+    <option name="totallyTimeSpent" value="13142000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,52 +369,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Hello.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/ArrayMax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="172">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ReturnFunction.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Swap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FunctionReturn.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/MathLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/StringLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ReadNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MeanNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Exceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Exceptions1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ReadFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" column="192" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="192" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/HelloFriend.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/TryNCatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="136">
+          <caret line="9" column="192" selection-start-line="9" selection-start-column="192" selection-end-line="9" selection-end-column="192" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/HelloAdvanced.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/ScanText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="153">
+          <caret line="9" column="171" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="171" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CompareFunction.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/WriteFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="238">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/PrimeNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/WritePrime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        <state relative-caret-position="-119">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Practice1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
