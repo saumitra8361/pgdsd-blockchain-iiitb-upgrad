@@ -2,65 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b54dd48-09a2-48f9-85f1-287858343152" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../WriteToFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../aliceinwonderland.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../module1/session1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../module1/session2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../module1/session2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../module1/session2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../module1/session2/.idea/session2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../module1/session2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../module1/session2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session1/out/production/session1/com/company/IncomeTaxCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session1/src/com/company/IncomeTaxCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/ScanText.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/StringLibrary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/TryNCatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/ArrayMax.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/Exceptions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/Exceptions1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/MathLibrary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/MeanNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/Practice1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/ReadFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/ReadNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/Swap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/WriteFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/session3/com/company/WritePrime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ArrayMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Exceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Exceptions1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/MathLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/MeanNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ReadNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ScanText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/StringLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TryNCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/WriteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/WritePrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../outputPrime.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../quiz_meanOfNumbers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../module1/session1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../module1/session1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module3/Assignment/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module3/Assignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module3/Assignment/src/com/company/Chemistry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session1/out/production/session1/META-INF/session1.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,42 +26,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Hello.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/FunctionReturn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/HelloFriend.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/HelloAdvanced.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/CompareFunction.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -125,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/PrimeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
+            <state relative-caret-position="186">
               <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Practice1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -187,18 +105,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Session3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Session3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Session3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Session3" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Session3" type="b2602c69:ProjectViewProjectNode" />
@@ -215,7 +128,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,22 +225,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="787be5ba-85f6-426e-a994-b7d495783f7b" name="Default Changelist" comment="" />
+      <changelist id="1b54dd48-09a2-48f9-85f1-287858343152" name="Default Changelist" comment="" />
       <created>1551071652526</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551071652526</updated>
       <workItem from="1551071655336" duration="13095000" />
+      <workItem from="1551202327445" duration="1999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13142000" />
+    <option name="totallyTimeSpent" value="15141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -362,13 +277,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/ArrayMax.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -478,10 +386,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/FunctionReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/HelloFriend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/HelloAdvanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CompareFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ReturnFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Practice1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
