@@ -2,7 +2,109 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f5d6312-037d-4152-9013-cf7dcc148e57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../module2/session3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/session3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/CompareFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/FunctionReturn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/HelloAdvanced.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/HelloFriend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/PrimeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/ReturnFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/CompareFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/FunctionReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/HelloAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/HelloFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/ReturnFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/out/production/session2/DoWhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/out/production/session2/ForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/out/production/session2/ForLoop2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/out/production/session2/WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/out/production/session2/WhileLoop2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/out/production/session2/WhileLoop3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/out/production/session2/com/company/ContinueBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/out/production/session2/com/company/DoWhileLoop2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/out/production/session2/com/company/ForLoop3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/out/production/session2/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/out/production/session2/com/company/WhileLoop4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/session2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/src/com/company/ContinueBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/src/com/company/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/src/com/company/DoWhileLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/src/com/company/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/src/com/company/ForLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/src/com/company/ForLoop3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/src/com/company/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/src/com/company/WhileLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/src/com/company/WhileLoop3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/session2/src/com/company/WhileLoop4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/Assignment/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/Assignment/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/Assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/Assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/Assignment/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/Assignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/Assignment/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/Assignment/Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/Assignment/out/production/Assignment/com/company/Chemistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/Assignment/out/production/Assignment/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/Assignment/src/com/company/Chemistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/Assignment/src/com/company/Chemistry_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3/Assignment/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/Session3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/session1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/ScanText.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/ScanText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/StringLibrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/StringLibrary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/TryNCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/TryNCatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/ArrayMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/ArrayMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/Exceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/Exceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/Exceptions1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/Exceptions1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/GradedQuestion1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/GradedQuestion1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/MathLibrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/MathLibrary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/MeanNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/MeanNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/Practice1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/Practice1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/ReadFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/ReadFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/ReadNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/ReadNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/Swap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/Swap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/Temperature.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/Temperature.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/WriteFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/WriteFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/out/production/session3/com/company/WritePrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/out/production/Session3/com/company/WritePrime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/session3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/Session3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/ArrayMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/ArrayMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/Exceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/Exceptions1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/Exceptions1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/GradedQuestion1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/GradedQuestion1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/MathLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/MathLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/MeanNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/MeanNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/Practice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/ReadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/ReadNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/ReadNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/ScanText.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/ScanText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/StringLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/StringLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/TryNCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/TryNCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/WriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/WriteFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/session3/src/com/company/WritePrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Session3/src/com/company/WritePrime.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -210,7 +312,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552648654365" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552651887217" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -318,16 +420,15 @@
       <option name="presentableId" value="Default" />
       <updated>1552541482683</updated>
       <workItem from="1552541486171" duration="9074000" />
-      <workItem from="1552645993523" duration="3325000" />
+      <workItem from="1552645993523" duration="3678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12399000" />
+    <option name="totallyTimeSpent" value="12752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21786633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
