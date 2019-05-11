@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef5139c7-9524-4ce4-a6aa-1365dc531e5c" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/../../Algorithms/Divide and Conqure Algo/Sorting Algorithms 1/Sorting Algorithms 1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Algorithms/Divide and Conqure Algo/Sorting Algorithms 1/src/InsertionSortDescending.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Algorithms/Divide and Conqure Algo/Sorting Algorithms 1/src/Practice1.java" afterDir="false" />
@@ -16,6 +17,8 @@
       <change beforePath="$PROJECT_DIR$/../Module7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../module6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module6/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> 38ca811ad99cc4476cbe562a33f9f2383424722c
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../module8_s2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module8_s2/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -34,7 +37,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/WithArrayListGeneric.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="90">
+=======
+            <state relative-caret-position="102">
+>>>>>>> 38ca811ad99cc4476cbe562a33f9f2383424722c
               <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
             </state>
           </provider>
@@ -43,6 +50,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/WithListIterator3.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="-230">
               <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               <folding>
@@ -81,6 +89,12 @@
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#218#225#0" expanded="true" />
+=======
+            <state relative-caret-position="602">
+              <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+>>>>>>> 38ca811ad99cc4476cbe562a33f9f2383424722c
               </folding>
             </state>
           </provider>
@@ -89,6 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Practice9.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="330">
               <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
             </state>
@@ -100,6 +115,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+=======
+            <state relative-caret-position="255">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+>>>>>>> 38ca811ad99cc4476cbe562a33f9f2383424722c
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -174,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="100" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -186,7 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,13 +263,18 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553690576314" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553840327317" />
+>>>>>>> 38ca811ad99cc4476cbe562a33f9f2383424722c
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -363,12 +386,18 @@
       <workItem from="1553077534600" duration="16923000" />
       <workItem from="1553494786140" duration="2117000" />
       <workItem from="1553688622950" duration="955000" />
+<<<<<<< HEAD
       <workItem from="1554907662766" duration="1581000" />
       <workItem from="1556396827193" duration="129000" />
+=======
+      <workItem from="1554957405501" duration="2382000" />
+      <workItem from="1555066855976" duration="599000" />
+>>>>>>> 38ca811ad99cc4476cbe562a33f9f2383424722c
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="23322000" />
   </component>
   <component name="ToolWindowManager">
@@ -376,6 +405,15 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2590315" />
+=======
+    <option name="totallyTimeSpent" value="24593000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="100" y="20" width="1400" height="820" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22985074" />
+>>>>>>> 38ca811ad99cc4476cbe562a33f9f2383424722c
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -510,6 +548,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/company/Practice3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -525,6 +564,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Practice6.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/company/Practice11.java">
+>>>>>>> 38ca811ad99cc4476cbe562a33f9f2383424722c
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
@@ -592,15 +634,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/WithArrayListGeneric.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="90">
           <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+=======
+        <state relative-caret-position="102">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/WithListIterator1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 38ca811ad99cc4476cbe562a33f9f2383424722c
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ListPolymorphism1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/WithListIterator3.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-230">
           <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+=======
+        <state relative-caret-position="602">
+          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+>>>>>>> 38ca811ad99cc4476cbe562a33f9f2383424722c
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
