@@ -1,0 +1,3 @@
+Files located in the "redist" folder are licensed under Apache License, Version 2.0 available at http://www.apache.org/licenses/LICENSE-2.0. Source code may be found at https://github.com/JetBrains/intellij-community.
+
+Unless required by applicable law or agreed in writing, software distributed under the Apache License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the Apache License for the specific language governing permissions and limitations under the Apache License.
