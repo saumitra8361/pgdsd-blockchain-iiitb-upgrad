@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ca997ca-d535-4576-a184-b4ad26dcf7a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Sorting Algorithms 1/Sorting Algorithms 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sorting Algorithms 1/src/InsertionSortDescending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sorting Algorithms 1/src/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Algorithms 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Module1/Session2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Module1/Session2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Module1/Session3/src/com/company/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../object oriented programming/module3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../object oriented programming/module3/.idea/module3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../object oriented programming/module3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../object oriented programming/module3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../object oriented programming/Module7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../object oriented programming/Module7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../object oriented programming/module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../object oriented programming/module2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../object oriented programming/module6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../object oriented programming/module6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../object oriented programming/module8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../object oriented programming/module8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../object oriented programming/module8_s2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../object oriented programming/module8_s2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/MergeSoretedArrays.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="16" column="43" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="43" />
+              <caret line="16" column="43" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -84,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QuickSortDescending.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
+            <state relative-caret-position="660">
               <caret line="46" selection-start-line="7" selection-start-column="4" selection-end-line="46" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -164,9 +149,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Assignment - Divide and Conqure Algorithms" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Dynamic Programming" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -247,16 +233,17 @@
       <workItem from="1556425071279" duration="6910000" />
       <workItem from="1556875200033" duration="230000" />
       <workItem from="1556875692464" duration="1086000" />
+      <workItem from="1557548721343" duration="600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18450000" />
+    <option name="totallyTimeSpent" value="19050000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="54" y="-11" width="1313" height="780" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980783" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24942791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -324,7 +311,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/QuickSortDescending.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
+        <state relative-caret-position="660">
           <caret line="46" selection-start-line="7" selection-start-column="4" selection-end-line="46" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -342,7 +329,7 @@
     <entry file="file://$PROJECT_DIR$/src/MergeSoretedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="43" />
+          <caret line="16" column="43" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="43" />
         </state>
       </provider>
     </entry>
